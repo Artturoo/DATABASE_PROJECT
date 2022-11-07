@@ -1,4 +1,3 @@
-.DS_Store
 
 
 
@@ -132,3 +131,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+.DS_Store
+actor.csv
+category.csv
+film.csv
+inventory.csv
+language.csv
+old_HDD.csv
+rental.csv
