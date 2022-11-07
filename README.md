@@ -50,18 +50,48 @@ A continuación vemos algunas de las queries que más información nos puede apo
 
 
 Aquellas películas que duren más de 120 minutos:
+
 ![img](Pics/Screenshot1.png)
 
+
+
+
+
+
+
 Los géneros de películas más alquilados:
+
 ![img](Pics/Screenshot 2.png)
 
-Películas de acción donde salga 'ED CHASE'
+
+
+
+
+
+Películas de acción donde salga 'ED CHASE':
+
 ![img](Pics/Screenshot 3.png)
 
-Las cinco películas que más actores tienen
+
+
+
+
+
+
+
+Las cinco películas que más actores tienen:
+
 ![img](Pics/Screenshot 4.png)
 
-Aquellas películas que tengan trailer y también tengan comentarios
+
+
+
+
+
+
+
+Aquellas películas que tengan trailer y también tengan comentarios:
+
 ![img](Pics/Screenshot 5.png)
 
 
