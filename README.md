@@ -3,18 +3,19 @@
 
 
 ## Objetivo
-En este proyecto, vamos a manipular y limpiar un conjunto de datos para posteriormente exportarlo a MySQL, donde crearemos una una base de datos son sus correspondientes relaciones lógicas y analizaremos y sacaremos diferentes conclusiones. 
+En este proyecto, vamos a manipular y limpiar un conjunto de datos para posteriormente exportarlo a MySQL, donde crearemos una base de datos con sus correspondientes relaciones lógicas y analizaremos y sacaremos diferentes conclusiones. 
 
 ## Intro
-La finalidad del ejercicio es poner en práctica todo lo aprendido sobre **exportación y visualización de datos en SQL.** Además ejecutaremos diferentes queries para sacar cierta información.
+La finalidad del ejercicio es poner en práctica todo lo aprendido sobre **exportación y visualización de datos en SQL.** Además, ejecutaremos diferentes queries para sacar información.
 
-Para ello, hemos tenido que importar siete archivos de datos, que contiene registros sobre una tienda de alquiler de peliculas, explorar y limpiar esos arhivos para luego trabajar con ellos en MySQL
+Para ello, hemos tenido que importar siete archivos de datos, que contienen registros sobre una tienda de alquiler de películas, los cuales exploraremos y limpiaremos para luego poder trabajar con ellos en MySQL
 
 ## Requisitos:
 1. Cargar datos
 2. Limpiar datos
 3. Crear DB
-4. Crear 10 querys SQL
+4. Realziar relaciones con las diferentes tablas
+5. Crear 10 querys SQL
 
 
 ## Procedimiento:
@@ -29,9 +30,9 @@ Para ello, hemos tenido que importar siete archivos de datos, que contiene regis
 
 1.4 Eliminamos la columna original_languaje_id porque vemos que esa columna tiene el 100% de los valores nulos.
 
-1.5 En las columnas last_update eliminamos la hora para quedarnos solamente con la fecha
+1.5 En las columnas last_update eliminamos la hora para quedarnos solamente con la fecha.
 
-1.6 La columna special_features tiene 4 valores únicos asi que eliminaremos esa columna y creamos 4 nuevas columnas:
+1.6 La columna special_features tiene 4 valores únicos, así que eliminaremos esa columna y creamos 4 nuevas columnas:
     -Behind_the_Scenes
     -Commentaries
     -Deleted_Scenes
@@ -45,7 +46,7 @@ Para ello, hemos tenido que importar siete archivos de datos, que contiene regis
 
 Una vez que hemos manipulado y limpiado el archivo, procedemos a exportarlo a SQL donde realizaremos las relaciones y añadiremos las categorias 'primary key' y 'foreign key' en cada una de las tablas.
 
-Una vez realizada esta parte crearemos las queries para poder sacar la información que más nos interese para nuestro análisis. 
+Una vez realizada esta parte, crearemos las queries para poder sacar la información que más nos interese para nuestro análisis. 
 A continuación vemos algunas de las queries que más información nos puede aportar.
 
 
