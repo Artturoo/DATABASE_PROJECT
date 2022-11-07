@@ -14,7 +14,7 @@ Para ello, hemos tenido que importar siete archivos de datos, que contienen regi
 1. Cargar datos
 2. Limpiar datos
 3. Crear DB
-4. Realziar relaciones con las diferentes tablas
+4. Realziar relaciones con las diferentes tablas 
 5. Crear 10 querys SQL
 
 
@@ -50,7 +50,7 @@ Una vez realizada esta parte, crearemos las queries para poder sacar la informac
 A continuación vemos algunas de las queries que más información nos puede aportar.
 
 
-Aquellas películas que duren más de 120 minutos:
+1️⃣ Aquellas películas que duren más de 120 minutos: 
 
 ![img](Pics/Screenshot1.png)
 
@@ -60,7 +60,7 @@ Aquellas películas que duren más de 120 minutos:
 
 
 
-Los géneros de películas más alquilados:
+2️⃣ Los géneros de películas más alquilados:
 
 ![img](Pics/Screenshot2.png)
 
@@ -70,7 +70,7 @@ Los géneros de películas más alquilados:
 
 
 
-Películas de acción donde salga 'ED CHASE':
+3️⃣ Películas de acción donde salga 'ED CHASE':
 
 ![img](Pics/Screenshot3.png)
 
@@ -81,7 +81,7 @@ Películas de acción donde salga 'ED CHASE':
 
 
 
-Las cinco películas que más actores tienen:
+4️⃣ Las cinco películas que más actores tienen:
 
 ![img](Pics/Screenshot4.png)
 
@@ -92,7 +92,7 @@ Las cinco películas que más actores tienen:
 
 
 
-Aquellas películas que tengan trailer y también tengan comentarios:
+5️⃣ Aquellas películas que tengan trailer y también tengan comentarios:
 
 ![img](Pics/Screenshot5.png)
 
