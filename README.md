@@ -1,6 +1,6 @@
 # Database Project II
 
-
+<p align="center"> <img src="https://github.com/Artturoo/DATABASE_PROJECT/blob/main/Pics/SQLpt.jpg" width="700" height="350">  </p>
 
 ## Objetivo
 En este proyecto, vamos a manipular y limpiar un conjunto de datos para posteriormente exportarlo a MySQL, donde crearemos una base de datos con sus correspondientes relaciones lógicas y analizaremos y sacaremos diferentes conclusiones. 
